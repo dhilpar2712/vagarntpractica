@@ -1,0 +1,1 @@
+<?php echo "estamos probando con vagrant";
