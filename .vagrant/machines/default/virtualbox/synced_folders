@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www.html":{"create":true,"guestpath":"/var/www.html","hostpath":"C:/Users/parra/Desktop/Diego/Instituto/1erTrimestre/Entorno servidor/Vagrant/archivos","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/parra/Desktop/Diego/Instituto/1erTrimestre/Entorno servidor/Vagrant","disabled":false,"__vagrantfile":true}}}
